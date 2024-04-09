@@ -1,0 +1,19 @@
+c:\users\srija-pooja\documents\visual studio 2010\Projects\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe
+c:\users\srija-pooja\documents\visual studio 2010\Projects\Hospital Management\Hospital Management\bin\Debug\Hospital Management.pdb
+c:\users\srija-pooja\documents\visual studio 2010\Projects\Hospital Management\Hospital Management\obj\x86\Debug\Hospital_Management.Admin.resources
+c:\users\srija-pooja\documents\visual studio 2010\Projects\Hospital Management\Hospital Management\obj\x86\Debug\Hospital_Management.Dashboard.resources
+c:\users\srija-pooja\documents\visual studio 2010\Projects\Hospital Management\Hospital Management\obj\x86\Debug\Hospital_Management.Properties.Resources.resources
+c:\users\srija-pooja\documents\visual studio 2010\Projects\Hospital Management\Hospital Management\obj\x86\Debug\Hospital Management.csproj.GenerateResource.Cache
+c:\users\srija-pooja\documents\visual studio 2010\Projects\Hospital Management\Hospital Management\obj\x86\Debug\Hospital Management.exe
+c:\users\srija-pooja\documents\visual studio 2010\Projects\Hospital Management\Hospital Management\obj\x86\Debug\Hospital Management.pdb
+c:\users\srija-pooja\documents\visual studio 2010\Projects\Hospital Management\Hospital Management\obj\x86\Debug\Hospital_Management.Doctor.resources
+c:\users\srija-pooja\documents\visual studio 2010\Projects\Hospital Management\Hospital Management\obj\x86\Debug\Hospital_Management.Nurse.resources
+c:\users\srija-pooja\documents\visual studio 2010\Projects\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe.config
+c:\users\srija-pooja\documents\visual studio 2010\Projects\Hospital Management\Hospital Management\obj\x86\Debug\Hospital_Management.Patient.resources
+c:\users\srija-pooja\documents\visual studio 2010\Projects\Hospital Management\Hospital Management\obj\x86\Debug\Hospital_Management.Staff.resources
+C:\Users\Srija-Pooja\Documents\Visual Studio 2010\Projects\Hospital Management\Hospital Management\obj\x86\Debug\Hospital Management.csprojResolveAssemblyReference.cache
+C:\Users\Srija-Pooja\Documents\Visual Studio 2010\Projects\Hospital Management\Hospital Management\bin\Debug\database\Adminlogin.accdb
+C:\Users\Srija-Pooja\Documents\Visual Studio 2010\Projects\Hospital Management\Hospital Management\bin\Debug\database\Doctor.accdb
+C:\Users\Srija-Pooja\Documents\Visual Studio 2010\Projects\Hospital Management\Hospital Management\bin\Debug\database\Nursedetails.accdb
+C:\Users\Srija-Pooja\Documents\Visual Studio 2010\Projects\Hospital Management\Hospital Management\bin\Debug\database\Patientdetails.accdb
+C:\Users\Srija-Pooja\Documents\Visual Studio 2010\Projects\Hospital Management\Hospital Management\bin\Debug\database\Staffdetails.accdb
